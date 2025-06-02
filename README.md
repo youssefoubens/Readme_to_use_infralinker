@@ -60,7 +60,8 @@ volumes:
 ## Database Initialization SQL
 
 After setting up the app, you can initialize your database with the following SQL commands:
-
+connect to mysql from terminal "mysql -h 127.0.0.1 -P 3306 -u youssef -p
+"
 ```sql
 USE infralinker;
 
