@@ -60,7 +60,13 @@ volumes:
 ## Database Initialization SQL
 
 After setting up the app, you can initialize your database with the following SQL commands:
-connect to mysql from terminal "mysql -h 127.0.0.1 -P 3306 -u youssef -p
+## 🔌 Connect to MySQL from Terminal
+
+To connect to the MySQL database running in Docker from your terminal, use the following command:
+
+```bash
+mysql -h 127.0.0.1 -P 3306 -u youssef -p
+
 "
 ```sql
 USE infralinker;
