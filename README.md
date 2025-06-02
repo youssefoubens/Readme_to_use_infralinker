@@ -132,3 +132,5 @@ WHERE DATE(end_date) >= CURDATE();
 If you have any questions or issues, please open an issue or contact the maintainer.
 
 ---
+## Authentication to application
+https://server_ip_adresse login: admin@infralinker.com password: ROOT1234
